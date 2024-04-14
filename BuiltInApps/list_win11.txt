@@ -35,7 +35,7 @@ Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
 Microsoft.WindowsNotepad
 Microsoft.WindowsSoundRecorder
-Microsoft.WindowsStore
+#Microsoft.WindowsStore
 Microsoft.WindowsTerminal
 Microsoft.Xbox.TCUI
 Microsoft.XboxGameOverlay
