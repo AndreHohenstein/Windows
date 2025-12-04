@@ -5,6 +5,7 @@ Clipchamp.Clipchamp
 #Microsoft.549981C3F5F10 (Cortana Search)
 #Microsoft.BingNews
 #Microsoft.BingWeather
+Microsoft.BingSearch
 Microsoft.DesktopAppInstaller
 #Microsoft.GamingApp
 #Microsoft.GetHelp
